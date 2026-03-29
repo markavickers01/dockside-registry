@@ -1,4 +1,8 @@
 {
+  "160001": {
+    "backendUrl": "https://dockside-backend-prod.onrender.com",
+    "displayName": "FBC OH/Pitt"
+  },
   "160099": {
     "backendUrl": "https://dockside-backend-1pqp.onrender.com",
     "displayName": "FBC OH/Pitt SBX"
