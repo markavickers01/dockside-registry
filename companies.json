@@ -10,5 +10,9 @@
   "791499": {
     "backendUrl": "https://dockside-backend-ncsbx.onrender.com",
     "displayName": "FBC NC SBX"
+  },
+  "169999": {
+    "backendUrl": "https://dockside-backend-ohdev-169999.onrender.com",
+    "displayName": "FBC OH/Pitt DEV SBX"
   }
 }
