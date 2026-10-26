@@ -18,5 +18,9 @@
   "169999": {
     "backendUrl": "https://dockside-backend-ohdev-169999.onrender.com",
     "displayName": "FBC OH/Pitt DEV SBX"
+  },
+  "169998": {
+    "backendUrl": "https://dockside-backend-sqldev.onrender.com",
+    "displayName": "FBC OH SQL DEV"
   }
 }
