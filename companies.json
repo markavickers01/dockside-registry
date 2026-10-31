@@ -22,5 +22,9 @@
   "169998": {
     "backendUrl": "https://dockside-backend-sqldev.onrender.com",
     "displayName": "FBC OH SQL DEV"
+  },
+  "160050": {
+    "backendUrl": "https://dockside-backend-sqldemo.onrender.com",
+    "displayName": "FBC OH SQL DEMO"
   }
 }
