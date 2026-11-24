@@ -2,35 +2,42 @@
   "160001": {
     "backendUrl": "https://dockside-backend-prod.onrender.com",
     "displayName": "FBC OH/Pitt",
+    "legalName": "Red Bird Boats LLC/dba Freedom Boat Club of Ohio & Pittsburgh",
     "formsKey": "0ffda54a0356fc6b21dc4d6803a3c8bb"
   },
   "160099": {
     "backendUrl": "https://dockside-backend-1pqp.onrender.com",
     "displayName": "FBC OH/Pitt SBX",
+    "legalName": "Red Bird Boats LLC/dba Freedom Boat Club of Ohio & Pittsburgh",
     "formsKey": "4cecf52ec61b4d5ef5c90f44517daa08"
   },
   "791401": {
     "backendUrl": "https://dockside-backend-nc-791401.onrender.com",
     "displayName": "FBC NC",
+    "legalName": "Weircraft",
     "formsKey": "59cecb225d344e0d01a65a22d508b125"
   },
   "791499": {
     "backendUrl": "https://dockside-backend-ncsbx.onrender.com",
-    "displayName": "FBC NC SBX"
+    "displayName": "FBC NC SBX",
+    "legalName": "Weircraft"
   },
   "169999": {
     "backendUrl": "https://dockside-backend-ohdev-169999.onrender.com",
     "displayName": "FBC OH/Pitt DEV SBX",
+    "legalName": "Red Bird Boats LLC/dba Freedom Boat Club of Ohio & Pittsburgh",
     "formsKey": "6AspLUZDPSbKqt6e5gF0Gra7"
   },
   "169998": {
     "backendUrl": "https://dockside-backend-sqldev.onrender.com",
     "displayName": "FBC OH SQL DEV",
+    "legalName": "Red Bird Boats LLC/dba Freedom Boat Club of Ohio & Pittsburgh",
     "formsKey": "rS2P5sTbZ71UOvsaTdcxP9eY"
   },
   "160050": {
     "backendUrl": "https://dockside-backend-sqldemo.onrender.com",
     "displayName": "FBC OH SQL DEMO",
+    "legalName": "Fleet Software & Consulting LLC",
     "formsKey": "7e8fc8347c96d337c529d4eafc8c06b5"
   }
 }
